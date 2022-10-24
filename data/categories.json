@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "title": "Physics details",
+        "name": "Physics",
+        "image": "https://images.unsplash.com/photo-1611784601826-d17011218c7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGh5c2ljc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "02",
+        "title": "Chemistry details",
+        "name": "Chemistry",
+        "image": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlbWlzdHJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "03",
+        "title": "Math Details",
+        "name": "Mathematics",
+        "image": "https://media.istockphoto.com/photos/learn-concept-math-symbols-on-wooden-blocks-in-front-of-blackboard-picture-id1315208600?b=1&k=20&m=1315208600&s=170667a&w=0&h=M8Wtl9ElOP05lSDam29GEPxOy_vtfBYV9_R9DsjiXG0="
+    },
+    {
+        "id": "04",
+        "title": "Algorithm Details",
+        "name": "Algorithm",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxnb3JpdGhtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "05",
+        "title": "Biology Details",
+        "name": "Biology",
+        "image": "https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlvbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": "06",
+        "title": "Culture Details",
+        "name": "Culture",
+        "image": "https://images.unsplash.com/photo-1605418524574-0159244a11be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3VsdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
