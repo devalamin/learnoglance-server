@@ -3,9 +3,10 @@
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "category_id": "01",
         "total_view": 488,
+        "title": "Physics details",
         "name": "Physics",
         "title-detail": "Physics For Practical Life",
-        "image_url": "https://images.unsplash.com/photo-1611784601826-d17011218c7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGh5c2ljc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1611784601826-d17011218c7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGh5c2ljc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "details": "Physics uses the scientific method to help uncover the basic principles governing light and matter, and to discover the implications of those laws. It assumes that there are rules by which the universe functions, and that those laws can be at least partially understood by humans. It is also commonly believed that those laws could be used to predict everything about the universe's future if complete information was available about the present state of all light and matter."
     },
     {
@@ -13,8 +14,9 @@
         "category_id": "02",
         "total_view": 454,
         "name": "Chemistry",
+        "title": "Chemistry details",
         "title-detail": "Chemistry Is The Base Of Science",
-        "image_url": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlbWlzdHJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlbWlzdHJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "details": "This is unlike cleaning up pollution (also called remediation), which involves treating waste streams (end-of-the-pipe treatment) or cleanup of environmental spills and other releases. Remediation may include separating hazardous chemicals from other materials, then treating them so they are no longer hazardous or concentrating them for safe disposal. Most remediation activities do not involve green chemistry. Remediation removes hazardous materials from the environment; on the other hand, green chemistry keeps the hazardous materials out of the environment in the first place."
     },
     {
@@ -22,8 +24,9 @@
         "category_id": "03",
         "total_view": 478,
         "name": "Mathematics",
+        "title": "Math Details",
         "title-detail": "Mathematics Build On Logic",
-        "image_url": "https://media.istockphoto.com/photos/learn-concept-math-symbols-on-wooden-blocks-in-front-of-blackboard-picture-id1315208600?b=1&k=20&m=1315208600&s=170667a&w=0&h=M8Wtl9ElOP05lSDam29GEPxOy_vtfBYV9_R9DsjiXG0=",
+        "image": "https://media.istockphoto.com/photos/learn-concept-math-symbols-on-wooden-blocks-in-front-of-blackboard-picture-id1315208600?b=1&k=20&m=1315208600&s=170667a&w=0&h=M8Wtl9ElOP05lSDam29GEPxOy_vtfBYV9_R9DsjiXG0=",
         "details": " Mathematics is the science and study of quality, structure, space, and change. Mathematicians seek out patterns, formulate new conjectures, and establish truth by rigorous deduction from appropriately chosen axioms and definitions.There is debate over whether mathematical objects such as numbers and points exist naturally or are human creations. The mathematician Benjamin Peirce called mathematics "
     },
     {
@@ -31,8 +34,9 @@
         "category_id": "04",
         "total_view": 588,
         "name": "Algorithm",
+        "title": "Algorithm Details",
         "title-detail": "Algorithm refers to a sequence of finite steps to solve a particular problem",
-        "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxnb3JpdGhtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxnb3JpdGhtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "details": "It can be understood by taking the example of cooking a new recipe. To cook a new recipe, one reads the instructions and steps and executes them one by one, in the given sequence. The result thus obtained is the new dish cooked perfectly. Every time you use your phone, computer, laptop, or calculator you are using Algorithms. Similarly, algorithms help to do a task in programming to get the expected output.The Algorithm designed are language-independent, i.e. they are just plain instructions that can be implemented in any language, and yet the output will be the same, as expected."
     },
     {
@@ -40,8 +44,9 @@
         "category_id": "05",
         "total_view": 256,
         "name": "Biology",
+        "title": "Biology Details",
         "title-detail": "Branches of Biology",
-        "image_url": "https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlvbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1530213786676-41ad9f7736f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmlvbG9neXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "details": "Biology caters to these intriguing aspects through various sub-disciplines or branches. Some branches are intertwined with other disciplines of science.For instance, theoretical biology is a branch of biology that encompasses mathematical models to investigate certain principles that affect life.Quantum Biology deals with biological processes that are quantum mechanical in nature such as the conversion of energy into more usable forms. Other branches of biology are as follows."
     },
     {
@@ -49,8 +54,9 @@
         "category_id": "06",
         "total_view": 477,
         "name": "Culture",
+        "title": "Culture Details",
         "title-detail": "Local culture has connections to all aspects of the curriculum",
-        "image_url": "https://images.unsplash.com/photo-1605418524574-0159244a11be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3VsdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1605418524574-0159244a11be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3VsdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "details": "Local culture recognizes the expertise that people have in living their daily lives. People bring a wealth of knowledge to their activities  where to buy the freshest meats, how to machine a part within a thousandth of an inch, when to move the infield closer to the plate for a bunt, what types of patterns go well with each other, how to reach consensus on a cooperative's committee.Local culture recognizes that people's daily knowledge comes from shared life experiences and information transmitted to them by family, friends, neighbors and co-workers."
     }
 ]
